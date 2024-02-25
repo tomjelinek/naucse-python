@@ -1,5 +1,8 @@
 *.pyc
 
+# vim
+*.swp
+
 # LaTeX
 *.aux
 *.log
@@ -12,3 +15,4 @@ venv
 _build
 .arca
 .pytest_cache
+.cache
