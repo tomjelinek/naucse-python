@@ -137,6 +137,8 @@ sessions:
   - title: Tahák na užitečné funkce (PDF)
     url: https://pyvec.github.io/cheatsheets/basic-functions/basic-functions-cs.pdf
     type: cheatsheet
+  - lesson: effective-work-on-pc/alt-tab
+    type: cheatsheet
   - title: 'Projekty (✊✌✋)'
     url: https://projekty.pyladies.cz/session?course=pyladies-2024-brno-jaro&session=loops
     type: homework
