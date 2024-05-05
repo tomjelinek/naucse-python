@@ -1511,6 +1511,39 @@
                 "static_files": {},
                 "title": "Cyklus While"
             },
+            "effective-work-on-pc/alt-tab": {
+                "pages": {
+                    "index": {
+                        "attribution": [
+                            "Pro PyLadies napsal Martin Pavlásek 2024"
+                        ],
+                        "content": {
+                            "path": "alt-tab/index.html"
+                        },
+                        "ids": [
+                            "alt__tab",
+                            "efektivni_prace_na_pc_alttab_prepinani_oken"
+                        ],
+                        "license": "cc-by-sa-40",
+                        "links": [
+                            "#alt__tab",
+                            "#efektivni_prace_na_pc_alttab_prepinani_oken"
+                        ],
+                        "slug": "index",
+                        "solutions": [],
+                        "source_file": "lessons/effective-work-on-pc/alt-tab/index.md",
+                        "title": "Efektivní práce na PC: Alt+Tab (přepínání oken)",
+                        "vars": {
+                            "coach-present": true,
+                            "pyladies": true,
+                            "user-gender": "f"
+                        }
+                    }
+                },
+                "source_file": "lessons/effective-work-on-pc/alt-tab/info.yml",
+                "static_files": {},
+                "title": "Efektivní práce na PC: Alt+Tab (přepínání oken)"
+            },
             "intro/turtle": {
                 "pages": {
                     "index": {
@@ -1893,6 +1926,11 @@
                     {
                         "external_url": "https://pyvec.github.io/cheatsheets/basic-functions/basic-functions-cs.pdf",
                         "title": "Tahák na užitečné funkce (PDF)",
+                        "type": "cheatsheet"
+                    },
+                    {
+                        "lesson_slug": "effective-work-on-pc/alt-tab",
+                        "title": "Efektivní práce na PC: Alt+Tab (přepínání oken)",
                         "type": "cheatsheet"
                     },
                     {
