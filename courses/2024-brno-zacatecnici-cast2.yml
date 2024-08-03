@@ -1,5 +1,5 @@
 title: Začátečnický kurz PyLadies naruby - druhá část
-subtitle: Brno - podzim 2024 - středa  # TODO den
+subtitle: Brno - podzim 2024 - čtvrtek
 time: 18:00–20:00
 place: Fakulta Informatiky MUNI, Botanická 554/68a, místnost S505
 default_time:
@@ -28,7 +28,7 @@ vars:
 sessions:
 - slug: test
   title: 'Rozhraní a testy'
-  date: 2023-11-22  # TODO
+  date: 2024-09-26
   materials:
   - title: Textové materiály
     url: null
@@ -50,12 +50,20 @@ sessions:
   - title: Další odkazy
     url: null
   - title: "Projekty (✕✕✕)"
-    url: https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim&session=test
+    url: https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim-ctvrtek&session=test
     type: homework
+
+
+- slug: opak1
+  title: 'Rozhraní a testy podruhé'
+  date: 2024-10-03
+  materials:
+  - lesson: beginners/placeholder
+
 
 - slug: list
   title: 'Seznamy a n-tice'
-  date: 2023-11-29  # TODO
+  date: 2024-10-10
   materials:
   - title: Textové materiály
     url: null
@@ -78,13 +86,20 @@ sessions:
     url: https://pyvec.github.io/cheatsheets/lists/lists-cs.pdf
     type: cheatsheet
   - title: "Projekty – [\U0001f436\U0001f431\U0001f430\U0001f40d]"
-    url: https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim&session=list
+    url: https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim-ctvrtek&session=list
     type: homework
+
+
+- slug: opak2
+  title: 'Seznamy a n-tice podruhé'
+  date: 2024-10-17
+  materials:
+  - lesson: beginners/placeholder
 
 
 - slug: file
   title: 'Sekvence a soubory'
-  date: 2023-12-06  # TODO
+  date: 2024-10-24
   materials:
   - title: Textové materiály
     url: null
@@ -105,13 +120,20 @@ sessions:
   - title: Další odkazy
     url: null
   - title: Projekty (⚔️)
-    url: https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim&session=file
+    url: https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim-ctvrtek&session=file
     type: homework
+
+
+- slug: opak3
+  title: 'Sekvence a soubory podruhé'
+  date: 2024-10-31
+  materials:
+  - lesson: beginners/placeholder
 
 
 - slug: dict
   title: 'Slovníky'
-  date: 2023-12-13  # TODO
+  date: 2024-11-07
   materials:
   - title: Textové materiály
     url: null
@@ -134,12 +156,20 @@ sessions:
     url: https://pyvec.github.io/cheatsheets/dicts/dicts-cs.pdf
     type: cheatsheet
   - title: "Projekty (💾)"
-    url: https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim&session=dict
+    url: https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim-ctvrtek&session=dict
     type: homework
+
+
+- slug: opak4
+  title: 'Slovníky podruhé'
+  date: 2024-11-14
+  materials:
+  - lesson: beginners/placeholder
+
 
 - slug: class
   title: 'Třídy a dědičnost'
-  date: 2023-12-20  # TODO
+  date: 2024-11-21
   materials:
   - title: Textové materiály
     url: null
@@ -156,16 +186,18 @@ sessions:
   - title: Další odkazy
     url: null
   - title: "Projekty (♟♚)"
-    url: https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim&session=class
+    url: https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim-ctvrtek&session=class
     type: homework
   - title: Odkazy na další materiály
     url: https://www.fi.muni.cz/IB111/sbirka/
 
-- slug: final
-  title: 'Závěrečná lekce'
-  date: 2024-01-03  # TODO
+
+- slug: opak5
+  title: 'Třídy a dědičnost podruhé'
+  date: 2024-11-28
   materials:
   - lesson: beginners/placeholder
+
 
 extra_lessons:
 - beginners/functions
