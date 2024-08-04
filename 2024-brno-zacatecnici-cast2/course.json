@@ -1170,7 +1170,7 @@
         "place": "Fakulta Informatiky MUNI, Botanická 554/68a, místnost S505",
         "sessions": [
             {
-                "date": "2023-11-22",
+                "date": "2024-09-26",
                 "materials": [
                     {
                         "title": "Textové materiály",
@@ -1220,7 +1220,7 @@
                         "type": "special"
                     },
                     {
-                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim&session=test",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim-ctvrtek&session=test",
                         "title": "Projekty (✕✕✕)",
                         "type": "homework"
                     }
@@ -1231,7 +1231,21 @@
                 "title": "Rozhraní a testy"
             },
             {
-                "date": "2023-11-29",
+                "date": "2024-10-03",
+                "materials": [
+                    {
+                        "lesson_slug": "beginners/placeholder",
+                        "title": "Opakování",
+                        "type": "lesson"
+                    }
+                ],
+                "serial": "2",
+                "slug": "opak1",
+                "source_file": "courses/2024-brno-zacatecnici-cast2.yml",
+                "title": "Rozhraní a testy podruhé"
+            },
+            {
+                "date": "2024-10-10",
                 "materials": [
                     {
                         "title": "Textové materiály",
@@ -1281,18 +1295,32 @@
                         "type": "cheatsheet"
                     },
                     {
-                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim&session=list",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim-ctvrtek&session=list",
                         "title": "Projekty – [🐶🐱🐰🐍]",
                         "type": "homework"
                     }
                 ],
-                "serial": "2",
+                "serial": "3",
                 "slug": "list",
                 "source_file": "courses/2024-brno-zacatecnici-cast2.yml",
                 "title": "Seznamy a n-tice"
             },
             {
-                "date": "2023-12-06",
+                "date": "2024-10-17",
+                "materials": [
+                    {
+                        "lesson_slug": "beginners/placeholder",
+                        "title": "Opakování",
+                        "type": "lesson"
+                    }
+                ],
+                "serial": "4",
+                "slug": "opak2",
+                "source_file": "courses/2024-brno-zacatecnici-cast2.yml",
+                "title": "Seznamy a n-tice podruhé"
+            },
+            {
+                "date": "2024-10-24",
                 "materials": [
                     {
                         "title": "Textové materiály",
@@ -1342,18 +1370,32 @@
                         "type": "special"
                     },
                     {
-                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim&session=file",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim-ctvrtek&session=file",
                         "title": "Projekty (⚔️)",
                         "type": "homework"
                     }
                 ],
-                "serial": "3",
+                "serial": "5",
                 "slug": "file",
                 "source_file": "courses/2024-brno-zacatecnici-cast2.yml",
                 "title": "Sekvence a soubory"
             },
             {
-                "date": "2023-12-13",
+                "date": "2024-10-31",
+                "materials": [
+                    {
+                        "lesson_slug": "beginners/placeholder",
+                        "title": "Opakování",
+                        "type": "lesson"
+                    }
+                ],
+                "serial": "6",
+                "slug": "opak3",
+                "source_file": "courses/2024-brno-zacatecnici-cast2.yml",
+                "title": "Sekvence a soubory podruhé"
+            },
+            {
+                "date": "2024-11-07",
                 "materials": [
                     {
                         "title": "Textové materiály",
@@ -1403,18 +1445,32 @@
                         "type": "cheatsheet"
                     },
                     {
-                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim&session=dict",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim-ctvrtek&session=dict",
                         "title": "Projekty (💾)",
                         "type": "homework"
                     }
                 ],
-                "serial": "4",
+                "serial": "7",
                 "slug": "dict",
                 "source_file": "courses/2024-brno-zacatecnici-cast2.yml",
                 "title": "Slovníky"
             },
             {
-                "date": "2023-12-20",
+                "date": "2024-11-14",
+                "materials": [
+                    {
+                        "lesson_slug": "beginners/placeholder",
+                        "title": "Opakování",
+                        "type": "lesson"
+                    }
+                ],
+                "serial": "8",
+                "slug": "opak4",
+                "source_file": "courses/2024-brno-zacatecnici-cast2.yml",
+                "title": "Slovníky podruhé"
+            },
+            {
+                "date": "2024-11-21",
                 "materials": [
                     {
                         "title": "Textové materiály",
@@ -1449,7 +1505,7 @@
                         "type": "special"
                     },
                     {
-                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim&session=class",
+                        "external_url": "https://projekty.pyladies.cz/session?course=pyladies-2024-brno-podzim-ctvrtek&session=class",
                         "title": "Projekty (♟♚)",
                         "type": "homework"
                     },
@@ -1459,13 +1515,13 @@
                         "type": "none-link"
                     }
                 ],
-                "serial": "5",
+                "serial": "9",
                 "slug": "class",
                 "source_file": "courses/2024-brno-zacatecnici-cast2.yml",
                 "title": "Třídy a dědičnost"
             },
             {
-                "date": "2024-01-03",
+                "date": "2024-11-28",
                 "materials": [
                     {
                         "lesson_slug": "beginners/placeholder",
@@ -1473,14 +1529,14 @@
                         "type": "lesson"
                     }
                 ],
-                "serial": "6",
-                "slug": "final",
+                "serial": "10",
+                "slug": "opak5",
                 "source_file": "courses/2024-brno-zacatecnici-cast2.yml",
-                "title": "Závěrečná lekce"
+                "title": "Třídy a dědičnost podruhé"
             }
         ],
         "source_file": "courses/2024-brno-zacatecnici-cast2.yml",
-        "subtitle": "Brno - podzim 2024 - středa",
+        "subtitle": "Brno - podzim 2024 - čtvrtek",
         "time_description": "18:00–20:00",
         "timezone": "Europe/Prague",
         "title": "Začátečnický kurz PyLadies naruby - druhá část",
